@@ -1,0 +1,4 @@
+# Don't check auto-generated stuff into git
+producer/node_modules
+consumer/node_modules
+producer/data.txt

@@ -1,0 +1,19 @@
+{
+  "name": "task-producer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Suresh Mainali <suresh@nimblebees.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "csv": "^5.1.1",
+    "csv-parse": "^4.3.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
